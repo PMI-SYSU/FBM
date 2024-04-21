@@ -1,0 +1,5 @@
+This is the Experiment of FBM
+Author：Yuchen Wang
+Time：2024/4/21
+
+This code corresponds to Figures 3-5 in the original text and can be directly executed in Jupyter for verification. The main file for running the code is 'FBM/main_FBM5S.py','FBM/FGSM_FBM_SC.py','FBM/WhiteNoise_FBM_SC.py'. Readers are invited to modify relevant parameters themselves to reproduce the paper's associated results.
