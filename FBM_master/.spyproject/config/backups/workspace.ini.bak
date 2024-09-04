@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['C:\\Users\\31458\\.spyder-py3\\temp.py', 'FBM\\main_FBM5S.py', 'FBM\\Utils_Mnist\\mnist_10_loader_torch.py', 'FBM\\FGSM_FBM_SC.py', 'FBM\\Utils_Mnist\\Dataloader_new.py', 'FBM\\FBM_CIB_XMS.py', 'FBM\\result_CIB.py', 'FBM\\result_ND.py', 'FBM\\FBM_FM_XMS.py', 'FBM\\result_FM.py', 'FBM\\FBM_Fashion_PCA.py', 'FBM\\FBM_FGSM_XMS.py', 'FBM\\resut_peak_FM.py', 'FBM\\result_peak.py', 'FBM\\FBM_ND_XMS.py', 'FBM\\result_FGSM.py', 'MLP\\MLP_FGSM_XMS.py', 'MLP\\MLP_Fashion_PCA.py', 'MLP\\MLP_CIB_XMS.py', 'MLP\\main_MLP3.py', 'MLP\\MLP_ND_XMS.py', 'MLP\\MLP_FM_XMS.py', 'MLP\\result_CIB_MLP.py', 'MLP\\result_FM_MLP.py', 'FBM\\rho0_F.py', 'neural_network.py', 'MLP\\result_ND_MLP.py']
+
